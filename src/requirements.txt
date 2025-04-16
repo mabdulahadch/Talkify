@@ -1,0 +1,11 @@
+pygame==2.1.2
+pyttsx3==2.90
+pyaudio==0.2.11
+comtypes==1.1.10
+pycaw==20181226.1
+SpeechRecognition==3.8.1
+screen-brightness-control==1.2.0
+tk==0.1.0  # Assuming you are using Python's built-in tkinter module
+requests==2.26.0
+Pillow==9.0.1  # This is the updated package name for PIL (Pillow is the modern version)
+voice-command==0.1.0  # Assuming voice_commands is your custom module
